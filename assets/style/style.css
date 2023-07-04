@@ -34,3 +34,31 @@ header i {
     font-size: 1.5em;
     cursor: pointer;
 }
+
+.navigation {
+    position: absolute;
+    bottom: 30px;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.navigation li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navigation li a {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80px;
+    height: 80px;
+    background: #fff;
+    color: #333;
+    box-shadow: 0 25px 10px rgba(0, 0, 0, 0, 1);
+    border-radius: 50%;
+    text-decoration: none;
+}
