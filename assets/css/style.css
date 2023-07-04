@@ -16,5 +16,11 @@ section {
 }
 
 header {
-    
+    position: absolute;
+    top: 0;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
 }
