@@ -79,7 +79,7 @@ header i {
     left: 0;
     padding: 60px 0;
     display: flex;
-    max-width: 100%;
+    width: 100%;
     overflow-x: hidden;
 }
 
@@ -88,6 +88,13 @@ header i {
 }
 
 .imgScroll div img {
-    margin: 0 20px;
+    margin: 0px 25px;
     max-width: 300px;
+    border: 10px solid transparent;
+    transition: 0.25s;
+}
+
+.imgScroll div img:hover {
+    border: 10px solid #fff;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
 }
