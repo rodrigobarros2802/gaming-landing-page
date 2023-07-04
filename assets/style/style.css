@@ -59,7 +59,7 @@ header i {
     font-size: 1.5em;
     background: #fff;
     color: #333;
-    box-shadow: 0 25px 10px rgba(0, 0, 0, 0, 1);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
     border-radius: 50%;
     text-decoration: none;
 }
