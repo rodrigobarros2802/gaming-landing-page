@@ -73,3 +73,20 @@ header i {
 .navigation li a:hover {
     color: #f00;
 }
+
+.imgScroll {
+    position: absolute;
+    left: 0;
+    padding: 60px 0;
+    display: flex;
+    overflow-x: hidden;
+}
+
+.imgScroll div {
+    display: flex;
+}
+
+.imgScroll div img {
+    margin: 0 20px;
+    max-width: 300px;
+}
