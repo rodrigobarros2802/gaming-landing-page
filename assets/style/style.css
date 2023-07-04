@@ -30,3 +30,7 @@ header .logo img {
     max-width: 200px;
 }
 
+header i {
+    font-size: 1.30em;
+    cursor: pointer;
+}
