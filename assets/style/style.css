@@ -79,6 +79,7 @@ header i {
     left: 0;
     padding: 60px 0;
     display: flex;
+    max-width: 100%;
     overflow-x: hidden;
 }
 
