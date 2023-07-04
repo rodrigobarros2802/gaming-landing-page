@@ -56,9 +56,20 @@ header i {
     justify-content: center;
     width: 80px;
     height: 80px;
+    font-size: 1.5em;
     background: #fff;
     color: #333;
     box-shadow: 0 25px 10px rgba(0, 0, 0, 0, 1);
     border-radius: 50%;
     text-decoration: none;
+}
+
+.navigation li.active a,
+.navigation li.active a:hover {
+    background: #f00;
+    color: #fff;
+}
+
+.navigation li a:hover {
+    color: #f00;
 }
