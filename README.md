@@ -75,7 +75,7 @@
 <p align="center"><img src=""></p>
 
 <h1 align="center">:link: Links</h1>
-<h3 align="center">Deploy GitHub Pages - </h3>
+<h3 align="center">Deploy GitHub Pages - https://rodrigobarros2802.github.io/gaming-landing-page/</h3>
 
 <h1 align="center">:technologist: Autor</h1>
 <h3 align="center">LinkedIn - https://www.linkedin.com/in/rodrigobarros2802/</h3>
