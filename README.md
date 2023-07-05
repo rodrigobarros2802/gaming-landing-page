@@ -29,10 +29,10 @@
 <h3 align="center"></h3>
 
 <h1 align="center">:open_book: Aprendizado</h1>
-<h3 align="center"></h3>
+<h3 align="center">Nesse projeto tive como aprendizado, usar as @keyframes dando um movimento como scroll, fazendo com que as capas dos games fiquem passando na tela.</h3>
 
 <div align="center">
-<img align="center" src="">
+<img align="center" src="assets/img/aprendizado.png">
 </div>
 
 <h1 align="center">:camera: Imagens do Projeto</h1>
