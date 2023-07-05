@@ -85,6 +85,18 @@ header i {
 
 .imgScroll div {
     display: flex;
+    animation: animate 40s linear infinite;
+    animation-delay: -40s;
+}
+
+@keyframes animate {
+    0% {
+        transform: translateX(100%);
+    }
+
+    100% {
+        transform: translateX(-100%);
+    }
 }
 
 .imgScroll div img {
