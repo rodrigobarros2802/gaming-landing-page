@@ -98,3 +98,13 @@ header i {
     border: 10px solid #fff;
     box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
 }
+
+.imgScroll:hover div img {
+    opacity: 0;
+    filter: blur(5);
+}
+
+.imgScroll div img:hover {
+    opacity: 1;
+    filter: blur(0px);
+}
